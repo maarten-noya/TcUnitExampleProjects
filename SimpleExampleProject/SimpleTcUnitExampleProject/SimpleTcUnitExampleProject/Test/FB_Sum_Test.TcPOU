@@ -6,6 +6,7 @@ VAR
 END_VAR]]></Declaration>
     <Implementation>
       <ST><![CDATA[TwoPlusTwoEqualsFour();
+
 ZeroPlusZeroEqualsZero();]]></ST>
     </Implementation>
     <Method Name="TwoPlusTwoEqualsFour" Id="{071ba4c3-fe0d-4b0b-be72-a320c9d403a4}">
@@ -46,5 +47,17 @@ AssertEquals(Expected := ExpectedSum,
 TEST_FINISHED();]]></ST>
       </Implementation>
     </Method>
+    <LineIds Name="FB_Sum_Test">
+      <LineId Id="3" Count="1" />
+      <LineId Id="2" Count="0" />
+    </LineIds>
+    <LineIds Name="FB_Sum_Test.TwoPlusTwoEqualsFour">
+      <LineId Id="3" Count="7" />
+      <LineId Id="2" Count="0" />
+    </LineIds>
+    <LineIds Name="FB_Sum_Test.ZeroPlusZeroEqualsZero">
+      <LineId Id="3" Count="7" />
+      <LineId Id="2" Count="0" />
+    </LineIds>
   </POU>
 </TcPlcObject>
