@@ -3,10 +3,8 @@ name: TcUnit-Runner
  
 on:
   push:
-    branches: [ master, main ]
-  pull_request:
-    branches: [ master, main ]
- 
+    branches: [ master ]
+
 jobs:
  
   tcunit_runner:
