@@ -4,7 +4,6 @@
     <Declaration><![CDATA[FUNCTION_BLOCK FB_Sum
 VAR_INPUT
 	one : UINT;
-	
 	two : UINT;
 END_VAR
 VAR_OUTPUT
