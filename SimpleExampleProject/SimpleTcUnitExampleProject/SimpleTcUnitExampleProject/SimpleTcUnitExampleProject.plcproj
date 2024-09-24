@@ -6,7 +6,7 @@
     <ProjectGuid>{b7c07472-6f11-48d6-81a5-dbb6c3da7482}</ProjectGuid>
     <SubObjectsSortedByName>True</SubObjectsSortedByName>
     <Name>SimpleTcUnitExampleProject</Name>
-    <ProgramVersion>3.1.4022.7</ProgramVersion>
+    <ProgramVersion>3.1.4026.10</ProgramVersion>
     <Application>{40978a44-a20c-4352-a28c-55b155079af4}</Application>
     <TypeSystem>{668542b7-dc96-4dc7-9f8a-edd2ab18c641}</TypeSystem>
     <Implicit_Task_Info>{c7a71a09-56c2-4cb2-b245-879dedbc4f63}</Implicit_Task_Info>
