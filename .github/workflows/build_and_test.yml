@@ -22,4 +22,4 @@ jobs:
       - name: Run TcUnit-Runner
         shell: cmd
         # Start TcUnit-Runner with a timeout of 5 min
-        run: '"C:\Program Files (x86)\TcUnit-Runner\LaunchTcUnit.bat" -A 5.143.131.226.1.1'
+        run: '"C:\Program Files (x86)\TcUnit-Runner\LaunchTcUnit.bat" -A 5.143.131.226.1.1 -W 3.1.4026.10'
