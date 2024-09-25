@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
-<TcSmItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.beckhoff.com/schemas/2012/07/TcSmProject" TcSmVersion="1.0" TcVersion="3.1.4026.5" ClassName="CNestedPlcProjDef">
-	<Project GUID="{B7C07472-6F11-48D6-81A5-DBB6C3DA7482}" Name="SimpleTcUnitExampleProject" PrjFilePath="..\..\SimpleTcUnitExampleProject\SimpleTcUnitExampleProject.plcproj" TmcFilePath="..\..\SimpleTcUnitExampleProject\SimpleTcUnitExampleProject.tmc" ReloadTmc="true" AmsPort="851" FileArchiveSettings="#x000e" SymbolicMapping="true">
-		<Instance Id="#x08502000" TcSmClass="TComPlcObjDef" KeepUnrestoredLinks="2" TmcHash="{AA25D335-D641-0CC1-765A-65F364A557A8}" TmcPath="SimpleTcUnitExampleProject\SimpleTcUnitExampleProject.tmc">
+<TcSmItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.beckhoff.com/schemas/2012/07/TcSmProject" TcSmVersion="1.0" TcVersion="3.1.4026.10" ClassName="CNestedPlcProjDef">
+	<Project GUID="{B7C07472-6F11-48D6-81A5-DBB6C3DA7482}" Name="SimpleTcUnitExampleProject" PrjFilePath="..\..\SimpleTcUnitExampleProject\SimpleTcUnitExampleProject.plcproj" TmcFilePath="..\..\SimpleTcUnitExampleProject\SimpleTcUnitExampleProject.tmc" ReloadTmc="true" AmsPort="851" FileArchiveSettings="#x000e" CopyTmcToTarget="true" CopyTpyToTarget="false" SymbolicMapping="true">
+		<Instance Id="#x08502000" TcSmClass="TComPlcObjDef" KeepUnrestoredLinks="2" TmcHash="{741B53D4-1C76-4EC8-0EBF-79456B652E44}" TmcPath="SimpleTcUnitExampleProject\SimpleTcUnitExampleProject.tmc">
 			<Name>SimpleTcUnitExampleProject Instance</Name>
 			<CLSID ClassFactory="TcPlc30">{08500001-0000-0000-F000-000000000064}</CLSID>
 			<Contexts>

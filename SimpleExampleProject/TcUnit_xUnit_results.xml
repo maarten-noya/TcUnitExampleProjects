@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuites failures="0" tests="2">
+  <testsuite id="0" name="PRG_TEST.fbSum_Test" tests="2" failures="0">
+    <testcase name="TwoPlusTwoEqualsFour" assertions="0" classname="PRG_TEST.fbSum_Test" status="PASS" />
+    <testcase name="ZeroPlusZeroEqualsZero" assertions="0" classname="PRG_TEST.fbSum_Test" status="PASS" />
+  </testsuite>
+</testsuites>
